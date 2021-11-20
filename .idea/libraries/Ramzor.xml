@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Ramzor">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/Ramzor.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
